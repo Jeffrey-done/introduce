@@ -1,0 +1,56 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "blog-china97-cn-va46ggve",
+    "options": {
+        "url": "https://blog.china97.cn/home/index.html",
+        "index": "index.html",
+        "domain": "blog.china97.cn",
+        "origin": "https://blog.china97.cn",
+        "ipaddress": "39.102.35.39",
+        "originURL": "https://blog.china97.cn/home/index.html",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/",
+                "cookie": "X_CACHE_KEY=6d3d9b848cd969211020ac5d91b2ff95"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sun, 21 Mar 2021 02:52:55 GMT",
+                "content-type": "text/html",
+                "last-modified": "Fri, 08 Jan 2021 13:35:38 GMT",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"5ff85faa-9ef4\"",
+                "strict-transport-security": "max-age=31536000",
+                "content-encoding": "gzip"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1616295172664,
+        "end": 1616295203487,
+        "spend": 30.823
+    }
+}
